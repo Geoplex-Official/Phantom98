@@ -21,3 +21,6 @@ P = Production
 1 = No Custom Example Code
 2 = Includes Custom Example Code
 Ex. P1 = Production Version without Example Code
+
+### Contributing to this project
+Frok this repository and then create a pull request from a branch of your fork to the main branch of the original project
